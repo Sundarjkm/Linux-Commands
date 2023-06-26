@@ -1,0 +1,24 @@
+echo used for declare a variable
+
+echo hello world     result hello world
+
+echo "hello world"    result hello wprld
+
+echo 'hello world'    result hello world
+
+myvar="m"
+echo $myvar
+result m
+
+x=10
+echo "the value of x is $x"
+result the value of x is 10
+
+
+echo -e 'some \text'
+result some ext
+
+echo -e 'some \n text'
+result 
+some 
+text
