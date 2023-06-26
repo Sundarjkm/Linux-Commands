@@ -1,0 +1,18 @@
+Know the pid
+Pid chrome
+
+Kill process using pid 
+Kill 3564
+Pid not same everytime
+
+Kill the process force
+Kill -KILL 5642
+
+Know the process id
+Ps -ux
+
+View all users running process
+Ps -aux
+
+Know the particular user running process
+Ps -u  root
