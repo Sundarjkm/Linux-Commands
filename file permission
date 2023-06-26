@@ -1,1 +1,23 @@
+chmod using change file permission
+
+users are users,groups,others
+File permissions are read+write+execute
+
+add a permission to users
+chmod u+x file
+
+remove a permission for group
+chmod g-w file
+
+add read+write permission to others
+chmod o+rw file
+
+add a permission to all users
+chmod a+rwx file
+
+add a permission to user+group
+chmod ug=rwx file
+
+apply a permission to u+g+o
+chmod u+rwx,g+rw,o+w file
 
