@@ -1,0 +1,25 @@
+Add a user
+sudo useradd user1 -m -s /usr/bin/bash -g root -c "Hi linux"
+m for Default home directory
+s for Default shell directory
+g for group
+c for comment
+
+now set password for user
+sudo passwd user1
+
+know user location command
+ls /home/
+
+userdelete
+sudo userdel user1
+
+Delete user with home directory
+sudo userdel -r user1
+
+Delete user folder
+rm -r /home/user1/
+
+
+
+
