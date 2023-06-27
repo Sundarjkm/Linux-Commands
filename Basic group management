@@ -1,0 +1,25 @@
+know groups command
+groups
+cat /etc/group/
+
+
+Add a group
+sudo groupadd java
+now java group added
+
+Delete a group
+sudo groupdel java
+now java group deleted.
+
+Add a user for particular group
+sudo gpasswd -a username groupname
+sudo gpasswd -a user1 root
+
+Delete a user for particular group
+sudo gpasswd -d username groupname
+sudo gpasswd -d user1 database
+
+
+
+
+
