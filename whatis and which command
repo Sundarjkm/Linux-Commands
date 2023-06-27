@@ -1,0 +1,18 @@
+whatis
+mention it purpose of command used
+
+whatis ls
+-list dirctory content
+
+whatis firefox
+firefox (1)          - a free and open source web browser from Mozilla
+
+which
+it show the command location
+
+which ls
+/usr/bin/ls
+
+which pwd
+/usr/bin/pwd
+
