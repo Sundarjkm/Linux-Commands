@@ -1,1 +1,17 @@
+how to create a simple file
+first crate file nano myscript.sh
+
+myscript.sh file content
+
+#!/usr/bin/bash      tThis is bash location
+ls
+STRING="hello world"
+echo $STRING
+
+
+how to run the myscript file. enter below line in termianl
+./myscript.sh
+
+finally works that script
+
 
