@@ -1,0 +1,21 @@
+df 
+report file system disk space usage
+
+df
+view human readble
+df -h
+
+du (1)               - estimate file space usage
+du
+du -sh
+
+free (1)             - Display amount of free and used memory in the system
+free
+free -h
+free -b
+free -k
+free -g
+
+
+
+
