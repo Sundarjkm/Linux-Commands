@@ -1,0 +1,10 @@
+watch
+which can run scripts for command at a regular interval or repeatedly 
+
+watch free
+watch free -m
+
+refresh every 1 seconds
+watch -n 1 free -m
+
+
